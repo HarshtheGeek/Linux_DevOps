@@ -1,2 +1,1 @@
-# Linux_DevOps
-Provided notes and commands for the linux
+https://redis.io/learn/howtos/quick-start/cheat-sheet?utm_source=chatgpt.com
